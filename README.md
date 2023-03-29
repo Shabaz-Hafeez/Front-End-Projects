@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Shahbaz Hafeez an expert full stack developer have extensive working experience developing custom web applications. I have expertise in following technologies:<br>1. HTML, CSS, Bootstrap<br>2. JS and jQuery<br>3. PHP and MVC based frameworks like CodeIgniter, Laravel<br>4. WordPress<br>5. C# and .NET framework<br>6. MySQL and MS SQL🔭 I’m currently working on<br>
+I am Shahbaz Hafeez an expert full stack developer have extensive working experience developing custom web applications. I have expertise in following technologies:<br>1. HTML, CSS, Bootstrap<br>2. JS and jQuery<br>3. PHP and MVC based frameworks like CodeIgniter, Laravel<br>4. WordPress<br>5. C# and .NET framework<br>6. MySQL and MS SQL<br>
 
 
 ## 🌐 Socials:
