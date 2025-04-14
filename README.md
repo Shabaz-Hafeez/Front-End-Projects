@@ -17,5 +17,7 @@ I am Shahbaz Hafeez an expert full stack developer have extensive working experi
 https://teams.microsoft.com/l/message/19:dca8b4dc-9c8e-4c8d-9803-fb67db15f0fd_e850e2f3-3fef-40f0-8c4e-ab145722cdb4@unq.gbl.spaces/1741611436631?context=%7B%22contextType%22%3A%22chat%22%7D
 https://plesk.mtbc.com/login_up.php
 kashif
-Mlul326#ope   
+Mlul326#ope
+Username: portalbagh
+Password: }sY(^2Pvn*66
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
